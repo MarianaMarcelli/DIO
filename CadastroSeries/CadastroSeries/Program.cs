@@ -22,13 +22,13 @@ namespace CadastroSeries
                     InserirSerie();
                     break;
                     case "3":
-                   // AtualizarSerie();
+                    AtualizarSerie();
                     break;
                     case "4":
-                    //ExcluirSerie();
+                    ExcluirSerie();
                     break;
                     case "5":
-                    //VisualizarSerie();
+                    VisualizarSerie();
                     break;
                     case "C":
                     Console.Clear();
